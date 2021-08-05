@@ -4,3 +4,4 @@ projects/myapp/myproject/myproject/urls.py
 projects/myapp/myproject/myproject/__pycache__/urls.cpython-39.pyc
 projects/myapp/myproject/myproject/__pycache__/wsgi.cpython-39.pyc
 projects/myapp/myproject/db.sqlite3
+projects/myapp/myproject/newapp/__pycache__/views.cpython-39.pyc
